@@ -1,0 +1,111 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: green ;
+    font-family: Arial, sans-serif;
+    color: skyblue ;
+}
+
+.contenedor {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: darkred;
+    border: 2px solid #333333;
+    border-radius: 10px;
+}
+
+#titulo-principal {
+    text-align: center;
+    font-size: 32px;
+    margin: 10px;
+    padding: 15px;
+}
+
+.subtitulo {
+    text-align: center;
+    font-size: 25px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.texto {
+    font-size: 18px;
+    text-align: justify;
+    margin: 15px;
+    padding: 10px;
+}
+
+.menu {
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+
+.menu img {
+    width: 120px;
+    height: 50px;
+    margin: 5px;
+}
+
+.imagen-principal {
+    width: 500px;
+    max-width: 90%;
+    border: 2px solid #333333;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+.orientacion {
+    width: 80%;
+    margin: 25px auto;
+    padding: 20px;
+    border: 2px solid #555555;
+    border-radius: 10px;
+    text-align: center;
+    background-color:black;
+}
+
+.orientacion img {
+    width: 300px;
+    max-width: 90%;
+    border-radius: 10px;
+    border: 2px solid #333333;
+}
+
+.galeria {
+    width: 80%;
+    margin: 25px auto;
+    padding: 20px;
+    border: 2px solid #555555;
+    border-radius: 10px;
+    text-align: center;
+    background-color:black;
+}
+
+.galeria img {
+    width: 300px;
+    max-width: 90%;
+    border: 2px solid #333333;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.enlace {
+    text-align: center;
+    font-size: 18px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.enlace a {
+    color: #0645ad;
+    text-decoration: underline;
+}
+
+.pie {
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    font-size: 14px;
+}
